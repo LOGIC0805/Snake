@@ -1,3 +1,2 @@
 # Snake
-Snake Game
-This is a simple Snake Game written by C.
+This is a simple Snake Game written in C.
